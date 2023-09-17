@@ -1,0 +1,162 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 693px;
+  background-color: rgb(107, 105, 105);
+  flex-wrap: wrap;
+  text-align: center;
+  background-image: url(/assents/Background.png) ;
+  font-family: 'Inter', sans-serif;
+  background-size: cover;
+}
+.header .logo {
+  margin-top: 39px;
+}
+.for-you  {
+  margin-top: 18px;
+  color: #E7EDF0;
+  font-size: 24px
+}
+.risk {
+  width: 64px;
+  height: 2px;
+  background-color: #E50914;
+  margin: 0 auto;
+  margin-top: 18px;
+}
+.sex {
+  margin-top: 12px;
+  line-height: 29px
+}
+.dif {
+  color: #E7EDF0;
+  font-size: 24px;
+  line-height: 29px;
+}
+.likes img {
+  margin-top: 14px;
+  width: 86px;
+  height: 86px;
+}
+.the-more {
+color: #999;
+text-align: center;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 15px;
+margin-top: 14px;
+}
+.position {
+width: 100%;
+justify-content: center;
+align-items: center;
+display: flex;
+flex-wrap: wrap;
+}
+.ready {
+  width: 100%;
+  height: 70px;
+  background-color: #000;
+
+}
+.ready p {
+  color: #E7EDF0;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 29px; 
+  margin-left: 24px;
+}
+.witty {
+  margin-top: 12px;
+}
+.selection {
+  background-color: #000;
+  width: 100%;
+  height: 100% ;
+  padding: 24px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.selection p {
+margin-bottom: 10px;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+width: 100%;
+color: #E7EDF0;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 22px; 
+}
+.selection img {
+width: 100%;
+border-radius: 8px;
+width: 145.33px;
+margin: 3px;
+}
+.btn-r {
+width: 100%;
+background-color: #000;
+padding: 24px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.btn-r button {
+background-color: #E50914;
+padding: 19px;
+width: 452px;
+border-radius: 8px;
+color: #E7EDF0;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+border: none;
+cursor: pointer;
+
+}
+.footer img {
+width: 24px;
+height: 44px;
+}
+.footer {
+display: flex;
+background-color: #000;
+padding: 24px;
+}
+.footer p {
+margin-left: 24px ;
+color: #999;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 14px; 
+letter-spacing: 0.12px;
+}
+.info-rodape {
+  background-color: #000;
+  color: #999;
+  font-family: cursive;
+  text-align: right;
+  font-size: 10px;
+
+}
+.info-rodape p{
+  margin-right: 15px;
+}
